@@ -1,8 +1,8 @@
-<h1>Hi, I'm Odafe! <br/><a href="https://github.com/cybersensei0511/odafefenere">Programmer</a>, <a href="(https://linkedin.com/in/odafe-ighogboja-98607a359)/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Odafe! <br/><a href="https://github.com/cybersensei0511/odafefenere" <a href="(https://linkedin.com/in/odafe-ighogboja-98607a359)/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Simple Maail Transfer Protocol Brute Scanner (Ethical Use) </b>
+- <b>Simple Mail Transfer Protocol Brute Scanner (Ethical Use) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Phishing Simulator Campaign (</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
